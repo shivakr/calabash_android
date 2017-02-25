@@ -1,0 +1,500 @@
+  165  bin/behat 
+  166  bin/behat 
+  167  bin/behat 
+  168  bin/behat 
+  169  bin/behat 
+  170  bin/behat 
+  171  bin/behat 
+  172  bin/behat 
+  173  bin/behat 
+  174  bin/behat 
+  175  bin/behat 
+  176  bin/behat 
+  177  bin/behat 
+  178  bin/behat 
+  179  bin/behat 
+  180  bin/behat 
+  181  bin/behat 
+  182  bin/behat 
+  183  bin/behat 
+  184  bin/behat 
+  185  bin/behat 
+  186  bin/behat 
+  187  bin/behat 
+  188  bin/behat 
+  189  bin/behat 
+  190  bin/behat 
+  191  bin/behat 
+  192  bin/behat 
+  193  bin/behat 
+  194  bin/behat 
+  195  bin/behat 
+  196  bin/behat 
+  197  bin/behat 
+  198  bin/behat 
+  199  bin/behat 
+  200  bin/behat 
+  201  bin/behat 
+  202  bin/behat 
+  203  bin/behat 
+  204  bin/behat 
+  205  bin/behat 
+  206  bin/behat 
+  207  bin/behat 
+  208  bin/behat 
+  209  bin/behat 
+  210  bin/behat 
+  211  bin/behat 
+  212  bin/behat 
+  213  bin/behat 
+  214  bin/behat 
+  215  bin/behat 
+  216  bin/behat 
+  217  bin/behat 
+  218  git status
+  219  git add *
+  220  git commit -m "adding all the code required"
+  221  git push
+  222  bin/behat 
+  223  git commit -m "adding all the code required"
+  224  git add *
+  225  git commit -m "adding all the code required"
+  226  git push
+  227  bin/behat 
+  228  bin/behat 
+  229  git commit -m "report added"
+  230  git add *
+  231  git commit -m "report added"
+  232  git push
+  233  bin/behat 
+  234  bin/behat 
+  235  git commit -m "Intend added"
+  236  git add *
+  237  git commit -m "Intend added"
+  238  git push
+  239  git push
+  240  bin/behat 
+  241  git add *
+  242  git commit -m "spell check"
+  243  git push
+  244  bin/behat 
+  245  bin/behat 
+  246  git add *
+  247  git commit -m "spell check"
+  248  git commit -m "new scenario added for negative"
+  249  git add *
+  250  git commit -m "new scenario added for negative"
+  251  git push
+  252  bin/behat 
+  253  bin/behat 
+  254  bin/behat 
+  255  bin/behat 
+  256  bin/behat 
+  257  bin/behat 
+  258  bin/behat 
+  259  bin/behat 
+  260  bin/behat 
+  261  bin/behat 
+  262  bin/behat 
+  263  bin/behat 
+  264  bin/behat 
+  265  bin/behat 
+  266  bin/behat 
+  267  bin/behat 
+  268  bin/behat 
+  269  bin/behat 
+  270  bin/behat 
+  271  bin/behat 
+  272  bin/behat 
+  273  bin/behat 
+  274  bin/behat 
+  275  bin/behat 
+  276  bin/behat 
+  277  bin/behat 
+  278  bin/behat 
+  279  bin/behat 
+  280  bin/behat 
+  281  bin/behat 
+  282  git stash
+  283  git stash
+  284  bin/behat 
+  285  bin/behat 
+  286  bin/behat 
+  287  history
+  288  php composer.phar update
+  289  bin/behat 
+  290  bin/behat 
+  291  bin/behat 
+  292  bin/behat 
+  293  bin/behat 
+  294  bin/behat 
+  295  bin/behat 
+  296  bin/behat 
+  297  bin/behat 
+  298  bin/behat 
+  299  bin/behat 
+  300  bin/behat 
+  301  bin/behat 
+  302  bin/behat 
+  303  bin/behat 
+  304  bin/behat 
+  305  bin/behat 
+  306  bin/behat 
+  307  bin/behat 
+  308  bin/behat 
+  309  php --version
+  310  php-version
+  311  php-version
+  312  bin/behat 
+  313  bin/behat 
+  314  bin/behat 
+  315  bin/behat 
+  316  bin/behat 
+  317  bin/behat 
+  318  bin/behat 
+  319  bin/behat 
+  320  bin/behat 
+  321  bin/behat 
+  322  bin/behat 
+  323  bin/behat 
+  324  ls
+  325  bin/behat
+  326  bin/behat
+  327  history
+  328  php composer.phar update
+  329  php composer.phar update
+  330  bin/behat
+  331  php composer.phar update
+  332  php composer.phar update
+  333  php composer.phar install
+  334  php composer.phar update
+  335  bin/behat
+  336  php composer.phar install
+  337  php composer.phar install
+  338  php composer.phar install
+  339  bin/behat
+  340  phpspec run
+  341  php composer.phar update
+  342  php composer.phar update
+  343  bin/behat
+  344  bin/behat
+  345  bin/behat
+  346  bin/behat
+  347  bin/behat
+  348  bin/behat
+  349  bin/behat
+  350  bin/behat
+  351  bin/behat
+  352  php composer.phar update
+  353  php composer.phar update
+  354  bin/behat
+  355  bin/behat
+  356  pwd
+  357  ls
+  358  bin/behat
+  359  bin/behat
+  360  php composer.phar update
+  361  bin/behat
+  362  bin/behat
+  363  bin/behat
+  364  bin/behat
+  365  bin/behat
+  366  bin/behat
+  367  bin/behat
+  368  bin/behat
+  369  bin/behat
+  370  bin/behat
+  371  bin/behat
+  372  bin/behat
+  373  bin/behat
+  374  bin/behat
+  375  bin/behat
+  376  bin/behat
+  377  bin/behat
+  378  php composer.phar update
+  379  bin/behat
+  380  php composer.phar update
+  381  php composer.phar update
+  382  bin/behat
+  383  bin/behat
+  384  bin/behat
+  385  bin/behat
+  386  bin/behat
+  387  bin/behat
+  388  bin/behat
+  389  bin/behat
+  390  bin/behat
+  391  bin/behat
+  392  bin/behat
+  393  bin/behat
+  394  bin/behat
+  395  bin/behat
+  396  bin/behat
+  397  bin/behat
+  398  bin/behat
+  399  bin/behat
+  400  bin/behat
+  401  bin/behat
+  402  bin/behat
+  403  bin/behat
+  404  bin/behat
+  405  bin/behat
+  406  bin/behat
+  407  bin/behat
+  408  bin/behat
+  409  bin/behat
+  410  bin/behat
+  411  bin/behat
+  412  bin/behat
+  413  bin/behat
+  414  bin/behat
+  415  bin/behat
+  416  bin/behat
+  417  bin/behat
+  418  git status
+  419  git add *
+  420  git commit -m "adding assertions and nested array step"
+  421  git push
+  422  bin/behat
+  423  bin/behat
+  424  bin/behat
+  425  bin/behat
+  426  bin/behat
+  427  bin/behat
+  428  bin/behat
+  429  bin/behat
+  430  bin/behat
+  431  bin/behat
+  432  bin/behat
+  433  bin/behat
+  434  git add *
+  435  git commit -m "corrected Some English in Scenario"
+  436  git commit -m "corrected Some English in Scenario"
+  437  bin/behat
+  438  bin/behat
+  439  bin/behat
+  440  git add *
+  441  git commit -m "code Cleanup"
+  442  git commit -m "code Cleanup"
+  443  bin/behat
+  444  bin/behat
+  445  bin/behat
+  446  git commit -m "code Cleanup"
+  447  bin/behat
+  448  bin/behat
+  449  git add *
+  450  git commit -m "code Cleanup"
+  451  git commit -m "code Cleanup"
+  452  bin/behat
+  453  bin/behat
+  454  bin/behat
+  455  bin/behat
+  456  bin/behat
+  457  bin/behat
+  458  bin/behat
+  459  bin/behat
+  460  bin/behat
+  461  bin/behat
+  462  bin/behat
+  463  bin/behat
+  464  bin/behat
+  465  bin/behat
+  466  bin/behat
+  467  bin/behat
+  468  bin/behat
+  469  bin/behat
+  470  bin/behat
+  471  bin/behat
+  472  bin/behat
+  473  bin/behat
+  474  bin/behat
+  475  bin/behat
+  476  bin/behat
+  477  bin/behat
+  478  bin/behat
+  479  bin/behat
+  480  cd 
+  481  cd projects
+  482  mkdir calabash_test
+  483  cd calabash
+  484  cd calabash_
+  485  cd 
+  486  cd projects/calabash_test/
+  487  ls
+  488  llll
+  489  ls
+  490  rvm
+  491  brew
+  492  brew doctor
+  493  echo "gem: --no-document" >> ~/.gemrc
+  494  curl -L https://get.rvm.io | bash -s stable --auto-dotfiles --autolibs=enable --rails
+  495  rvmtype rvm | head -1
+  496  type rvm | head -1
+  497  curl -L https://get.rvm.io | bash -s stable --auto-dotfiles --autolibs=enable --rails
+  498  rvm
+  499  /Users/shivar/Library/Developer/Xcode/DerivedData/Calculator-dhybxujuwcdyvqangvpevjqpqvqa/Build/Products/Debug-iphonesimulator/Calculator-cal.app/Calculator-cal ; exit;
+  500  /Users/shivar/Library/Developer/Xcode/DerivedData/Calculator-dhybxujuwcdyvqangvpevjqpqvqa/Build/Products/Debug-iphonesimulator/Calculator-cal.app/Calculator-cal ; exit;
+  501  cd ..
+  502  ls
+  503  cd ..
+  504  ls
+  505  cd calabash
+  506  ls
+  507  cd calabash-ios-example/
+  508  ls
+  509  calabash-ios console
+  510  rvm use 2.3.0
+  511  calabash-ios console
+  512  cd 
+  513  cd projects/
+  514  ls
+  515  cd ios_projects/
+  516  ls
+  517  cd aws-device-farm-calabash-tests-for-sample-app/
+  518  ls
+  519  ls
+  520  ls -lrt
+  521  rm - rf exit
+  522  rm exit
+  523  ls
+  524  ls -lrt
+  525  rm CalTextField
+  526  rm -rf CalTextField
+  527  ls
+  528  ls -lrt
+  529  rm -rf start_test_server_in_background Turn Copy Clear switch,
+  530  ls -lrt
+  531  rm -rf nil, false, UISwitch, <UISwitch: 0x7f7f73722d00; frame = (163 124; 51 31); opaque = NO; autoresize = RM+BM; layer = <CALayer: 0x608000428000>>, 51, 31 188.5, 163, 139.5,
+  532  ls -lrt
+  533  find /<path to files> -mtime +30 -print
+  534  find . -mtime +30 -print
+  535  find . -mtime -30 -print
+  536* find . -mtime  -print
+  537  ls -lrt
+  538  find . 23:26 -print
+  539  ls
+  540  ls -lrt
+  541  find . -mtime -6 -print
+  542  find . -mtime -8 -print
+  543  find . -mtime -4 -print
+  544  ls -lrt
+  545  find . ! -newermt 2013-11-22 -print
+  546  find . ! -newermt 2017-02-24 -print
+  547  find . -type f -cmin -1
+  548  find . -type f -cmin -11
+  549  find . -type f -cmin -112
+  550  find . -type f -cmin -12
+  551  find . -type f -cmin -13
+  552  find . -type f -cmin -12
+  553  find . -type f -cmin -11
+  554  find . -type f -cmin -13
+  555  ls
+  556  ls -lrt
+  557  mkdir test
+  558  mv features/ features_backup/ Gemfile pre-compiled-android-app.apk test/
+  559  ls
+  560  cd test
+  561  ls
+  562  cd ..
+  563  ls
+  564  mv -rf test/ ../
+  565  mv -r test/ ../
+  566  mv -f test/ ../
+  567  ls
+  568  cd ..
+  569  ls
+  570  rm -rf aws-device-farm-calabash-tests-for-sample-app/
+  571  ls
+  572  mv test/ android_test/
+  573  ls
+  574  cd android_test/
+  575  ls
+  576  bundle install
+  577  rm -rf CalTextField
+  578  ls
+  579  export APP_PATH=/Users/shivar/projects/ios_projects/android_test/pre-compiled-android-app.apk 
+  580  calabash-android resign /Users/shivar/projects/ios_projects/android_test/pre-compiled-android-app.apk
+  581  calabash-android build /Users/shivar/projects/ios_projects/android_test/pre-compiled-android-app.apk
+  582  export TEST_APP_PATH=/Users/shivar/projects/ios_projects/android_test/test_servers/9b02a3081a2ba46578067f75488873e3_0.5.8.apk
+  583  ls
+  584  cucumber
+  585  calabash-android console pre-compiled-android-app.apk
+  586  cucumber
+  587  cucumber
+  588  cucumber
+  589  cucumber
+  590  cucumber
+  591  cucumber
+  592  cucumber
+  593  cucumber
+  594  cucumber
+  595  cucumber
+  596  cucumber
+  597  cucumber
+  598  cucumber
+  599  cucumber
+  600  cucumber
+  601  cucumber
+  602  cucumber
+  603  cucumber
+  604  ls
+  605  bundle update
+  606  cucumber
+  607  pwd
+  608  ls
+  609  cucumber
+  610  cucumber
+  611  bundle update
+  612  bundle update
+  613  cucumber
+  614  cucumber
+  615  cucumber
+  616  cucumber
+  617  cucumber
+  618  cucumber
+  619  cucumber
+  620  cucumber
+  621  cucumber
+  622  cucumber
+  623  cucumber
+  624  cucumber
+  625  cucumber
+  626  cucumber
+  627  cucumber
+  628  calabash-android console pre-compiled-android-app.apk 
+  629  calabash-android console pre-compiled-android-app.apk 
+  630  calabash-android console pre-compiled-android-app.apk calabash-android resign /Users/shivar/projects/ios_projects/android_test/pre-compiled-android-app.apk
+  631  calabash-android resign /Users/shivar/projects/ios_projects/android_test/pre-compiled-android-app.apk
+  632  cucumber
+  633  calabash-android console pre-compiled-android-app.apk 
+  634  cucumber
+  635  cucumber
+  636  calabash-android console pre-compiled-android-app.apk 
+  637  cucumber
+  638  cucumber
+  639  cucumber
+  640  calabash-android resign /Users/shivar/projects/ios_projects/android_test/pre-compiled-android-app.apk
+  641  cucumber
+  642  cucumber
+  643  rvm list
+  644  echo rvm_auto_reload_flag=2 >> ~/.rvmrc
+  645  rvm reload
+  646  rvm list
+  647  rvm install 2.2.1
+  648  ls
+  649  sudo chmod a+rw -R ~/.rvm
+  650  which rvm
+  651  sudo chmod a+rw -R ~/.rvm/
+  652  sudo chmod a+rw ~/.rvm/
+  653  rvm install 2.2.1
+  654  rvm reinstall ruby-2.2.1
+  655  rvm list
+  656  pwd
+  657  bundle install
+  658  gem install bundler
+  659  bundle install
+  660  cuucmber
+  661  cucumber
+  662  cuucmber
+  663  cucumber
+  664  history >>sample_command
