@@ -15,6 +15,10 @@ class Homepage < Calabash::ABase
     "ImageButton"
   end
 
+  def sample
+    
+  end
+
 
   # def verify_app_launched_and_i_am_in_home_page
   #   element_exists("AppCompatTextView marked:'Homepage'")
